@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Chào mừng đến với blog của tôi</title>
     <link>//localhost:1313/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Chào mừng đến với blog của tôi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Dec 2024 15:02:40 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 14:13:17 +0700</lastBuildDate>
     <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Công Cụ Phát Triển Java</title>
+      <link>//localhost:1313/post/congcuphattrienjava/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/congcuphattrienjava/</guid>
+      <description>&lt;h2 id=&#34;công-cụ&#34;&gt;&lt;strong&gt;Công cụ&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Một số công cụ phát triển Java phổ biến, giúp lập trình viên viết, biên dịch, gỡ lỗi và triển khai ứng dụng Java một cách hiệu quả:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-integrated-development-environments-ides&#34;&gt;&lt;strong&gt;1. Integrated Development Environments (IDEs)&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;IntelliJ IDEA: Một IDE mạnh mẽ với tính năng thông minh, hỗ trợ tốt cho phát triển Java và nhiều ngôn ngữ khác. Cung cấp tính năng tự động hoàn thành mã, kiểm tra lỗi và tích hợp hệ thống quản lý phiên bản.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Giới Thiệu Thuật Toán Java</title>
       <link>//localhost:1313/post/thuattoancuajava/</link>
@@ -23,6 +30,27 @@
       <description>&lt;h2 id=&#34;giới-thiệu-về-java&#34;&gt;&lt;strong&gt;Giới Thiệu Về Java&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Java là một trong những ngôn ngữ lập trình phổ biến nhất hiện nay. Được phát triển bởi &lt;strong&gt;Sun Microsystems&lt;/strong&gt; (hiện thuộc &lt;strong&gt;Oracle&lt;/strong&gt;), Java nổi bật nhờ tính đa nền tảng, an toàn và hiệu suất cao.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-java-là-gì&#34;&gt;&lt;strong&gt;1. Java Là Gì?&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Java là ngôn ngữ lập trình &lt;strong&gt;hướng đối tượng (OOP)&lt;/strong&gt; và &lt;strong&gt;đa mục đích&lt;/strong&gt;. Một trong những đặc điểm nổi bật của Java là khả năng &lt;strong&gt;viết một lần, chạy mọi nơi&lt;/strong&gt; (&lt;em&gt;Write Once, Run Anywhere - WORA&lt;/em&gt;).&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Java Collections Framework</title>
+      <link>//localhost:1313/post/javacollectionsframework/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/javacollectionsframework/</guid>
+      <description>&lt;h2 id=&#34;giới-thiệu-về-java-collections-framework&#34;&gt;&lt;strong&gt;Giới thiệu về Java Collections Framework&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Java Collections Framework (JCF) là một tập hợp các lớp và giao diện trong Java, cung cấp các cấu trúc dữ liệu và thuật toán để quản lý các tập hợp đối tượng. Dưới đây là cái nhìn tổng quan về JCF:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-các-giao-diện-chính&#34;&gt;&lt;strong&gt;1. Các Giao Diện Chính&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Collection: Giao diện cơ sở cho tất cả các tập hợp. Nó định nghĩa các phương thức cơ bản như thêm, xóa, và kiểm tra sự tồn tại của phần tử.&#xA;List: Một tập hợp các phần tử có thứ tự, cho phép các phần tử trùng lặp. Ví dụ: ArrayList, LinkedList.&#xA;Set: Một tập hợp không cho phép các phần tử trùng lặp. Ví dụ: HashSet, TreeSet.&#xA;Map: Cấu trúc lưu trữ các cặp key-value, không cho phép key trùng lặp. Ví dụ: HashMap, TreeMap.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Java Với Cơ Sở Dữ Liệu</title>
+      <link>//localhost:1313/post/cosodulieuvoijava/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/cosodulieuvoijava/</guid>
+      <description>&lt;h2 id=&#34;giới-thiệu-java-với-cơ-sở-dữ-liệu&#34;&gt;&lt;strong&gt;Giới thiệu Java với cơ sở dữ liệu&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Java cung cấp nhiều cách để tương tác với cơ sở dữ liệu, chủ yếu thông qua JDBC (Java Database Connectivity). Dưới đây là cái nhìn tổng quan về cách Java kết nối và làm việc với cơ sở dữ liệu:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-java-database-connectivity-jdbc&#34;&gt;**1. Java Database Connectivity (JDBC)&lt;/h2&gt;&#xA;&lt;p&gt;JDBC là một API trong Java cho phép lập trình viên kết nối và thao tác với cơ sở dữ liệu quan hệ. Nó cung cấp các lớp và giao diện để thực hiện các tác vụ như kết nối, truy vấn và cập nhật dữ liệu.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kết Luận Về Java</title>
+      <link>//localhost:1313/post/ketluanjava/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/ketluanjava/</guid>
+      <description>&lt;p&gt;Java là một trong những ngôn ngữ lập trình phổ biến và mạnh mẽ nhất hiện nay, được sử dụng rộng rãi trong nhiều lĩnh vực như phát triển ứng dụng web, di động, và phần mềm doanh nghiệp. Với tính năng &amp;ldquo;viết một lần, chạy mọi nơi&amp;rdquo; (WORA), Java cung cấp sự linh hoạt và khả năng tương thích cao, giúp lập trình viên dễ dàng triển khai ứng dụng trên nhiều nền tảng khác nhau.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Khám Phá Về Java</title>
       <link>//localhost:1313/post/khamphajava/</link>
       <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
@@ -35,6 +63,13 @@
       <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/post/kientrucjava/</guid>
       <description>&lt;h2 id=&#34;tổng-quan-về-kiến-trúc-java&#34;&gt;&lt;strong&gt;Tổng quan về kiến trúc java&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Kiến trúc Java là một trong những điểm mạnh giúp Java trở thành một trong những ngôn ngữ lập trình phổ biến nhất. Dưới đây là những thành phần chính của kiến trúc Java:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-java-development-kit-jdk&#34;&gt;&lt;strong&gt;1. Java Development Kit (JDK)&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Mô tả: Là bộ công cụ phát triển Java, JDK bao gồm các công cụ cần thiết để biên dịch, chạy và gỡ lỗi chương trình Java.&#xA;Thành phần: Bao gồm trình biên dịch (javac), Java Runtime Environment (JRE), và các công cụ khác như jar, javap, v.v.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lập Trình Đa Luồng</title>
+      <link>//localhost:1313/post/laptrinhdaluong/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/laptrinhdaluong/</guid>
+      <description>&lt;h2 id=&#34;giới-thiệu-lập-trình-đa-luồng&#34;&gt;&lt;strong&gt;Giới thiệu lập trình đa luồng&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Lập trình đa luồng (Multithreading) trong Java cho phép thực hiện nhiều luồng (threads) song song, giúp tối ưu hóa hiệu suất ứng dụng và cải thiện khả năng phản hồi. Dưới đây là cái nhìn tổng quan về lập trình đa luồng trong Java:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-khái-niệm-cơ-bản&#34;&gt;&lt;strong&gt;1. Khái Niệm Cơ Bản&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Luồng (Thread): Là một đơn vị thực thi độc lập trong một chương trình. Mỗi luồng có thể thực hiện một nhiệm vụ riêng mà không ảnh hưởng đến các luồng khác.&#xA;Đa luồng: Là khả năng chạy nhiều luồng đồng thời trong cùng một ứng dụng.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on Chào mừng đến với blog của tôi</title>
     <link>//localhost:1313/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <description>Recent content in Tags on Chào mừng đến với blog của tôi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Dec 2024 14:16:38 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 14:13:17 +0700</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Các Bước Thiết Kế</title>
@@ -44,6 +44,20 @@
       <description></description>
     </item>
     <item>
+      <title>Giới Thiệu</title>
+      <link>//localhost:1313/tags/gi%E1%BB%9Bi-thi%E1%BB%87u/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/gi%E1%BB%9Bi-thi%E1%BB%87u/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Giới Thiệu Công Cụ</title>
+      <link>//localhost:1313/tags/gi%E1%BB%9Bi-thi%E1%BB%87u-c%C3%B4ng-c%E1%BB%A5/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/gi%E1%BB%9Bi-thi%E1%BB%87u-c%C3%B4ng-c%E1%BB%A5/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Hướng Dẫn</title>
       <link>//localhost:1313/tags/h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn/</link>
       <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
@@ -65,6 +79,13 @@
       <description></description>
     </item>
     <item>
+      <title>Kết Luận</title>
+      <link>//localhost:1313/tags/k%E1%BA%BFt-lu%E1%BA%ADn/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/k%E1%BA%BFt-lu%E1%BA%ADn/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Lập Trình</title>
       <link>//localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/</link>
       <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
@@ -79,6 +100,20 @@
       <description></description>
     </item>
     <item>
+      <title>Quản Lý</title>
+      <link>//localhost:1313/tags/qu%E1%BA%A3n-l%C3%BD/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/qu%E1%BA%A3n-l%C3%BD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sử Dụng</title>
+      <link>//localhost:1313/tags/s%E1%BB%AD-d%E1%BB%A5ng/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/s%E1%BB%AD-d%E1%BB%A5ng/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tổng Quan</title>
       <link>//localhost:1313/tags/t%E1%BB%95ng-quan/</link>
       <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
@@ -86,10 +121,17 @@
       <description></description>
     </item>
     <item>
-      <title>Ví DDụ Thuật Toán</title>
-      <link>//localhost:1313/tags/v%C3%AD-dd%E1%BB%A5-thu%E1%BA%ADt-to%C3%A1n/</link>
+      <title>Vấn Đề</title>
+      <link>//localhost:1313/tags/v%E1%BA%A5n-%C4%91%E1%BB%81/</link>
       <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/v%C3%AD-dd%E1%BB%A5-thu%E1%BA%ADt-to%C3%A1n/</guid>
+      <guid>//localhost:1313/tags/v%E1%BA%A5n-%C4%91%E1%BB%81/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ví Dụ Thuật Toán</title>
+      <link>//localhost:1313/tags/v%C3%AD-d%E1%BB%A5-thu%E1%BA%ADt-to%C3%A1n/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/v%C3%AD-d%E1%BB%A5-thu%E1%BA%ADt-to%C3%A1n/</guid>
       <description></description>
     </item>
   </channel>

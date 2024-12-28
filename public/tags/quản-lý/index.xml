@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quản Lý on Chào mừng đến với blog của tôi</title>
+    <link>//localhost:1313/tags/qu%E1%BA%A3n-l%C3%BD/</link>
+    <description>Recent content in Quản Lý on Chào mừng đến với blog của tôi</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Dec 2024 13:43:32 +0700</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/qu%E1%BA%A3n-l%C3%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lập Trình Đa Luồng</title>
+      <link>//localhost:1313/post/laptrinhdaluong/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/laptrinhdaluong/</guid>
+      <description>&lt;h2 id=&#34;giới-thiệu-lập-trình-đa-luồng&#34;&gt;&lt;strong&gt;Giới thiệu lập trình đa luồng&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Lập trình đa luồng (Multithreading) trong Java cho phép thực hiện nhiều luồng (threads) song song, giúp tối ưu hóa hiệu suất ứng dụng và cải thiện khả năng phản hồi. Dưới đây là cái nhìn tổng quan về lập trình đa luồng trong Java:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-khái-niệm-cơ-bản&#34;&gt;&lt;strong&gt;1. Khái Niệm Cơ Bản&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Luồng (Thread): Là một đơn vị thực thi độc lập trong một chương trình. Mỗi luồng có thể thực hiện một nhiệm vụ riêng mà không ảnh hưởng đến các luồng khác.&#xA;Đa luồng: Là khả năng chạy nhiều luồng đồng thời trong cùng một ứng dụng.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

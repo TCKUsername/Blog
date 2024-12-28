@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sử Dụng on Chào mừng đến với blog của tôi</title>
+    <link>//localhost:1313/tags/s%E1%BB%AD-d%E1%BB%A5ng/</link>
+    <description>Recent content in Sử Dụng on Chào mừng đến với blog của tôi</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Dec 2024 13:11:44 +0700</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/s%E1%BB%AD-d%E1%BB%A5ng/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java Collections Framework</title>
+      <link>//localhost:1313/post/javacollectionsframework/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/javacollectionsframework/</guid>
+      <description>&lt;h2 id=&#34;giới-thiệu-về-java-collections-framework&#34;&gt;&lt;strong&gt;Giới thiệu về Java Collections Framework&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Java Collections Framework (JCF) là một tập hợp các lớp và giao diện trong Java, cung cấp các cấu trúc dữ liệu và thuật toán để quản lý các tập hợp đối tượng. Dưới đây là cái nhìn tổng quan về JCF:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-các-giao-diện-chính&#34;&gt;&lt;strong&gt;1. Các Giao Diện Chính&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Collection: Giao diện cơ sở cho tất cả các tập hợp. Nó định nghĩa các phương thức cơ bản như thêm, xóa, và kiểm tra sự tồn tại của phần tử.&#xA;List: Một tập hợp các phần tử có thứ tự, cho phép các phần tử trùng lặp. Ví dụ: ArrayList, LinkedList.&#xA;Set: Một tập hợp không cho phép các phần tử trùng lặp. Ví dụ: HashSet, TreeSet.&#xA;Map: Cấu trúc lưu trữ các cặp key-value, không cho phép key trùng lặp. Ví dụ: HashMap, TreeMap.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

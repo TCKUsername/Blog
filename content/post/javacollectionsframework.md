@@ -1,12 +1,11 @@
 ---
-title: Giới Thiệu Về Java
+title: Java Collections Framework
 date: 2024-12-27
 author: Void
-description: Lập trình Java từ cơ bản đến nâng cao
+description: 
 tags:
-  - Java
-  - Lập Trình
-  - Hướng Dẫn
+  - Giới Thiệu
+  - Sử Dụng
 ---
 
 ## **Giới thiệu về Java Collections Framework**
@@ -47,24 +46,41 @@ Dễ sử dụng: Cung cấp nhiều phương thức tiện ích để thao tác
 
 ## **5. Sử Dụng JCF**
 Bạn có thể sử dụng JCF bằng cách import các lớp và giao diện tương ứng. Ví dụ:
+
+
 import java.util.ArrayList;
+
 import java.util.HashMap;
+
 import java.util.HashSet;
+
 import java.util.List;
+
 import java.util.Map;
+
 import java.util.Set;
 
+
 // Sử dụng ArrayList
+
 List<String> list = new ArrayList<>();
+
 list.add("Hello");
+
 list.add("World");
 
 // Sử dụng HashSet
+
 Set<String> set = new HashSet<>();
+
 set.add("Java");
+
 set.add("Java"); // Không thêm được vì trùng lặp
 
 // Sử dụng HashMap
+
 Map<String, Integer> map = new HashMap<>();
+
 map.put("Alice", 30);
+
 map.put("Bob", 25);

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tổng Quan on My New Hugo Site</title>
+    <title>Tổng Quan on Chào mừng đến với blog của tôi</title>
     <link>//localhost:1313/tags/t%E1%BB%95ng-quan/</link>
-    <description>Recent content in Tổng Quan on My New Hugo Site</description>
+    <description>Recent content in Tổng Quan on Chào mừng đến với blog của tôi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Dec 2024 14:16:38 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 12:51:20 +0700</lastBuildDate>
     <atom:link href="//localhost:1313/tags/t%E1%BB%95ng-quan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Khám Phá Về Java</title>

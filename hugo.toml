@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Chào mừng đến với blog của tôi"
 theme = "Impact"
 pygmentsCodeFences = true
 pygmentsUseClasses = true

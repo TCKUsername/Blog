@@ -6,7 +6,7 @@ description: Thuật toán
 tags:
   - Định nghĩa 
   - Các Bước Thiết Kế
-  - Ví DDụ Thuật Toán
+  - Ví Dụ Thuật Toán
   - Cấu Trúc Dữ Liệu
   - Phân Tích Thuật Toán
   - Java và Thuật Toán
