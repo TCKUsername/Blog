@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ví DDụ Thuật Toán on My New Hugo Site</title>
+    <link>//localhost:1313/tags/v%C3%AD-dd%E1%BB%A5-thu%E1%BA%ADt-to%C3%A1n/</link>
+    <description>Recent content in Ví DDụ Thuật Toán on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Dec 2024 13:28:31 +0700</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/v%C3%AD-dd%E1%BB%A5-thu%E1%BA%ADt-to%C3%A1n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Giới Thiệu Thuật Toán Java</title>
+      <link>//localhost:1313/post/thuattoancuajava/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/thuattoancuajava/</guid>
+      <description>&lt;h2 id=&#34;giới-thiệu-thuật-toán-java&#34;&gt;&lt;strong&gt;Giới thiệu thuật toán java&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Thuật toán trong Java là một chuỗi các bước hoặc quy trình được thiết kế để giải quyết một vấn đề cụ thể hoặc thực hiện một nhiệm vụ. Trong lập trình Java, thuật toán thường được triển khai dưới dạng các hàm hoặc phương thức. Để hiểu rõ hơn, dưới đây là một số khái niệm cơ bản về thuật toán trong Java:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-định-nghĩa-thuật-toán&#34;&gt;&lt;strong&gt;1. Định nghĩa Thuật toán&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Thuật toán là một tập hợp các quy tắc và hướng dẫn rõ ràng để thực hiện một công việc nhất định.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

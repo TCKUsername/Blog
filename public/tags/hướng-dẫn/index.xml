@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hướng Dẫn on My New Hugo Site</title>
+    <link>//localhost:1313/tags/h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn/</link>
+    <description>Recent content in Hướng Dẫn on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Dec 2024 13:56:44 +0700</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Giới Thiệu Về Java</title>
+      <link>//localhost:1313/post/giothieujava/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/giothieujava/</guid>
+      <description>&lt;h2 id=&#34;giới-thiệu-về-java&#34;&gt;&lt;strong&gt;Giới Thiệu Về Java&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Java là một trong những ngôn ngữ lập trình phổ biến nhất hiện nay. Được phát triển bởi &lt;strong&gt;Sun Microsystems&lt;/strong&gt; (hiện thuộc &lt;strong&gt;Oracle&lt;/strong&gt;), Java nổi bật nhờ tính đa nền tảng, an toàn và hiệu suất cao.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-java-là-gì&#34;&gt;&lt;strong&gt;1. Java Là Gì?&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Java là ngôn ngữ lập trình &lt;strong&gt;hướng đối tượng (OOP)&lt;/strong&gt; và &lt;strong&gt;đa mục đích&lt;/strong&gt;. Một trong những đặc điểm nổi bật của Java là khả năng &lt;strong&gt;viết một lần, chạy mọi nơi&lt;/strong&gt; (&lt;em&gt;Write Once, Run Anywhere - WORA&lt;/em&gt;).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Khám Phá Về Java</title>
+      <link>//localhost:1313/post/khamphajava/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/khamphajava/</guid>
+      <description>&lt;h2 id=&#34;khái-niệm&#34;&gt;&lt;strong&gt;Khái niệm&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Java là một trong những ngôn ngữ lập trình phổ biến nhất trên thế giới, được sử dụng rộng rãi trong phát triển phần mềm, ứng dụng di động, và nhiều lĩnh vực khác. Trong bài viết này, chúng ta sẽ cùng tìm hiểu về các đặc điểm nổi bật của Java, lý do tại sao nó vẫn giữ vị trí quan trọng trong ngành công nghiệp công nghệ thông tin.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

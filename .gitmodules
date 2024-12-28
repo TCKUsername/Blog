@@ -1,0 +1,4 @@
+[submodule "Ghost/public"]
+	path = Ghost/public
+	url = https://github.com/TCKUsername/TCKUsername.github.io.git
+	branch = main

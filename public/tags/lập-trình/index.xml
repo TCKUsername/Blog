@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lập Trình on My New Hugo Site</title>
+    <link>//localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/</link>
+    <description>Recent content in Lập Trình on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Dec 2024 13:13:56 +0700</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Giới Thiệu Về Java</title>
+      <link>//localhost:1313/post/giothieujava/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/giothieujava/</guid>
+      <description>&lt;h2 id=&#34;giới-thiệu-về-java&#34;&gt;&lt;strong&gt;Giới Thiệu Về Java&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Java là một trong những ngôn ngữ lập trình phổ biến nhất hiện nay. Được phát triển bởi &lt;strong&gt;Sun Microsystems&lt;/strong&gt; (hiện thuộc &lt;strong&gt;Oracle&lt;/strong&gt;), Java nổi bật nhờ tính đa nền tảng, an toàn và hiệu suất cao.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-java-là-gì&#34;&gt;&lt;strong&gt;1. Java Là Gì?&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Java là ngôn ngữ lập trình &lt;strong&gt;hướng đối tượng (OOP)&lt;/strong&gt; và &lt;strong&gt;đa mục đích&lt;/strong&gt;. Một trong những đặc điểm nổi bật của Java là khả năng &lt;strong&gt;viết một lần, chạy mọi nơi&lt;/strong&gt; (&lt;em&gt;Write Once, Run Anywhere - WORA&lt;/em&gt;).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

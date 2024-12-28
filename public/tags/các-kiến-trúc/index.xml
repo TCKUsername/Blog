@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Các Kiến Trúc on My New Hugo Site</title>
+    <link>//localhost:1313/tags/c%C3%A1c-ki%E1%BA%BFn-tr%C3%BAc/</link>
+    <description>Recent content in Các Kiến Trúc on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Dec 2024 14:16:38 +0700</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/c%C3%A1c-ki%E1%BA%BFn-tr%C3%BAc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kiến Trúc Về Java</title>
+      <link>//localhost:1313/post/kientrucjava/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/kientrucjava/</guid>
+      <description>&lt;h2 id=&#34;tổng-quan-về-kiến-trúc-java&#34;&gt;&lt;strong&gt;Tổng quan về kiến trúc java&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Kiến trúc Java là một trong những điểm mạnh giúp Java trở thành một trong những ngôn ngữ lập trình phổ biến nhất. Dưới đây là những thành phần chính của kiến trúc Java:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-java-development-kit-jdk&#34;&gt;&lt;strong&gt;1. Java Development Kit (JDK)&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Mô tả: Là bộ công cụ phát triển Java, JDK bao gồm các công cụ cần thiết để biên dịch, chạy và gỡ lỗi chương trình Java.&#xA;Thành phần: Bao gồm trình biên dịch (javac), Java Runtime Environment (JRE), và các công cụ khác như jar, javap, v.v.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
